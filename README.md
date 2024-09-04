@@ -54,6 +54,7 @@ JavaScript, Python, CSS, HTML, Github, Typescript, Kanban Methodology, Microsoft
 ## Work Done:
 
 Personal Projects can be found here: https://github.com/Birphon/personal
+
 School Work can be found here: https://github.com/Birphon/school
 
 
