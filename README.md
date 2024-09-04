@@ -38,7 +38,7 @@ JavaScript, Python, CSS, HTML, Github, Typescript, Kanban Methodology, Microsoft
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... Personal Projects revolving around video games like Deadlock and OnceHuman
+👩‍💻 I'm currently working on... A personal project around the video game Deadlock - https://github.com/Birphon/personal/deadlock
 
 🧠 I'm currently learning... Godot with the 20 Games Challenge
 
@@ -49,6 +49,12 @@ JavaScript, Python, CSS, HTML, Github, Typescript, Kanban Methodology, Microsoft
 😄 Pronouns... he/him
 
 ⚡️ Fun fact... I live in New Zealand
+
+
+## Work Done:
+
+Personal Projects can be found here: https://github.com/Birphon/personal
+School Work can be found here: https://github.com/Birphon/school
 
 
 ## 🔗 Links
