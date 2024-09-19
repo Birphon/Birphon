@@ -38,7 +38,7 @@ JavaScript, Python, CSS, HTML, Github, Typescript, Kanban Methodology, Microsoft
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... A personal project around the video game Deadlock - [Deadlock Builder](https://github.com/Birphon/personal/tree/main/working%20on/deadlock-builder)
+👩‍💻 I'm currently working on... some sort of personal project, be it a Racing Game I am working on or Jeu De Tarot game
 
 🧠 I'm currently learning... Godot with the 20 Games Challenge
 
