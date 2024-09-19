@@ -46,8 +46,6 @@ JavaScript, Python, CSS, HTML, Github, Typescript, Kanban Methodology, Microsoft
 
 📫 How to reach me... email is the best: jaredireland1205@gmail.com
 
-😄 Pronouns... he/him
-
 ⚡️ Fun fact... I live in New Zealand
 
 
